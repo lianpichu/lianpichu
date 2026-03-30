@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 💫 About Me:
 Hi there! I'm an IT graduate from 2016 based in the Philippines. After some time away, I'm now rediscovering my passion for web development and starting fresh by building small projects from scratch using what I currently learn.<br><br>I’m on a journey to revive my love for coding, improve my skills, and grow step by step. I enjoy exploring new ideas, experimenting with code, and turning concepts into working projects.<br><br>💡 I’m also looking forward to:<br><br>Collaborating with other developers<br>Learning from shared experiences<br>Gaining guidance and motivation as I continue this path<br><br>🎯 Current Goals<br><br>Strengthen my web development fundamentals<br>Build a solid portfolio<br>Land opportunities where I can grow as a developer<br><br>🎨 Fun Facts About Me<br><br>I love illustrating during my free time<br>I enjoy playing chess ♟️ and board games<br>Always curious and eager to learn new things
 
